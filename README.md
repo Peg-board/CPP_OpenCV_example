@@ -16,7 +16,7 @@ IDE: XCODE version 15.3 (15E204a)
 Homebrew는 macOS용 패키지 관리 애플리케이션이다. 설치, 업데이트, 삭제 등 관리가 용이하다.
 
 ```
-[https://brew.sh/](https://brew.sh/)
+(https://brew.sh/)
 ```
 
 (1) sudo 권한을 인증하고 설치한다. (install with curl)
