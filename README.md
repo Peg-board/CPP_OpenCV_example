@@ -1,5 +1,3 @@
-# 제목 없음
-
 $$
 \huge {\textsf {C++에서 OpenCV 활용하기}}
 $$
@@ -86,7 +84,7 @@ brew install opencv
 
 ![스크린샷 2024-05-08 오후 10.21.40.png](https://github.com/Peg-board/CPP_OpenCV_example/blob/master/images/md/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-05-08_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_10.21.40.png)
 
-(3)[OpenCV 버전] → lib → .dylib(유형: `Unix Executable File` ) 모두 선택
+(3)[OpenCV 버전] → lib → .dylib(`Unix Executable File`) 모두 선택
 
 (정렬기준을 “Kind”로 설정시 선택이 용이함 )
 
