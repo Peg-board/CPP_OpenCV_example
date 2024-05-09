@@ -427,7 +427,7 @@ int main(int /* argc */, char** argv)
 
 | 입력 영상 | 테스트 영상 |
 | :---: | :---: |
-| ![sample.jpg](https://github.com/Peg-board/CPP_OpenCV_example/blob/master/images/md/sample.jpg) |  |
+| ![sample.jpg](https://github.com/Peg-board/CPP_OpenCV_example/blob/master/images/md/sample.jpg) |![스크린샷 2024-05-09 오전 12.00.30.png](https://github.com/Peg-board/CPP_OpenCV_example/blob/master/images/md/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-05-09_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_12.00.30.png)  |
 
 ![sample.jpg](https://github.com/Peg-board/CPP_OpenCV_example/blob/master/images/md/sample.jpg)
 
