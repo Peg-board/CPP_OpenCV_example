@@ -5,7 +5,7 @@ $$
 ```
 환경
 OS: macOS Sonoma
-IDE: XCODE version 15.3 (15E204a), Visual Studio Code version 1.89.0
+IDE: XCODE version 15.3 (15E204a)
 
 ```
 
